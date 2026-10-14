@@ -28,8 +28,7 @@ QLIKE favours Multi-OU at 1- and 7-day horizons, while Single OU performs margin
 
 ## Repository
 
-- `01_data_inspection.ipynb` — realised variance construction
-- `02_memory_analysis.ipynb` — empirical memory and Bernstein representation
-- `03_model_calibration.ipynb` — Multi-OU calibration
-- `04_forecasting.ipynb` — out-of-sample forecasting
+- `01_memory_analysis.ipynb` — empirical memory and Bernstein representation
+- `02_model_calibration.ipynb` — Multi-OU calibration
+- `03_forecasting.ipynb` — out-of-sample forecasting
 - `implementation/` — reusable modelling and backtesting code
